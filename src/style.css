@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cursor-blink::after {
+  content: '|';
+  animation: blink 1s step-start infinite;
+}
