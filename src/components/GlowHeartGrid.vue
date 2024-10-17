@@ -1,4 +1,4 @@
-<script setup></script>
+<script setup></scrip>
 
 <template>
   <div class="grid grid-cols-3 gap-4">
