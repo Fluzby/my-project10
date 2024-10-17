@@ -1,4 +1,4 @@
-<script setup>
+<cript setup>
 import { ref } from 'vue';
 
 const loveSent = ref(false);
