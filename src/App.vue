@@ -1,4 +1,4 @@
-<cript setup>
+<script setup>
 import Hero from './components/Hero.vue'
 import ConsoleMessage from './components/ConsoleMessage.vue'
 import AnimatedHearts from './components/AnimatedHearts.vue'
