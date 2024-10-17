@@ -1,4 +1,4 @@
-<script setup></script>
+<cript setup></script>
 
 <template>
   <div class="relative h-48">
